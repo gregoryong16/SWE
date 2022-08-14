@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">CZ2006</string>
+    <string name="title_water">Water</string>
+    <string name="title_electricity">Electricity</string>
+    <string name="title_settings">Settings</string>
+
+    <string-array name="duration">
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <string-array name="hourly">
+        <item>12am</item>
+        <item>1am</item>
+        <item>2am</item>
+        <item>3am</item>
+        <item>4am</item>
+        <item>5am</item>
+        <item>6am</item>
+        <item>7am</item>
+        <item>8am</item>
+        <item>9am</item>
+        <item>10am</item>
+        <item>11am</item>
+        <item>12pm</item>
+        <item>1pm</item>
+        <item>2pm</item>
+        <item>3pm</item>
+        <item>4pm</item>
+        <item>5pm</item>
+        <item>6pm</item>
+        <item>7pm</item>
+        <item>8pm</item>
+        <item>9pm</item>
+        <item>10pm</item>
+        <item>11pm</item>
+    </string-array>
+
+    <string-array name="daily">
+        <item>0</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+        <item>9th</item>
+        <item>10th</item>
+        <item>11th</item>
+        <item>12th</item>
+        <item>13th</item>
+        <item>14th</item>
+        <item>15th</item>
+        <item>16th</item>
+        <item>17th</item>
+        <item>18th</item>
+        <item>19th</item>
+        <item>20th</item>
+        <item>21st</item>
+        <item>22nd</item>
+        <item>23rd</item>
+        <item>24th</item>
+        <item>25th</item>
+        <item>26th</item>
+        <item>27th</item>
+        <item>28th</item>
+        <item>29th</item>
+        <item>30th</item>
+        <item>31st</item>
+    </string-array>
+
+    <string-array name="monthly">
+        <item>0</item>
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <integer-array name="color">
+        <item>-16711936</item>
+        <item>-16711681</item>
+        <item>-16776961</item>
+        <item>-65281</item>
+        <item>-256</item>
+    </integer-array>
+
+    <string-array name="settings">
+        <item>Water Limit</item>
+        <item>Electricity Limit</item>
+        <item>Supplier</item>
+    </string-array>
+</resources>

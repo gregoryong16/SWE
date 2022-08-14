@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851428666384",
+    "project_id": "cz2006login",
+    "storage_bucket": "cz2006login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851428666384:android:d33e0ead38ecd1edab2e95",
+        "android_client_info": {
+          "package_name": "com.example.cz2006"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851428666384-9efbcqiius9r34vclreti2uv4f1rdqs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDajmQlfRpyVxSgE9fA12v6J4nQGUs263c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851428666384-9efbcqiius9r34vclreti2uv4f1rdqs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

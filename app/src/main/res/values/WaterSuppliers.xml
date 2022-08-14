@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WaterSuppliers">
+        <item>Public Utilities Board (PUB)</item>
+    </string-array>
+</resources>
